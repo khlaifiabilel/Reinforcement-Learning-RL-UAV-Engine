@@ -41,6 +41,6 @@ tensorflow==1.4.0
 tensorflow-tensorboard==0.4.0
 termcolor==1.1.0
 tornado==4.5.3
-Werkzeug==0.16.0
+Werkzeug==2.2.3
 wincertstore==0.2
 wrapt==1.11.2
